@@ -33,7 +33,9 @@ Publishing these data in an open format and allowing/promoting a non-restrictive
 
 ### Info_per_barris
 
-Neighborhood disaggregated data. The registered neighborhoods are:
+Neighborhood disaggregated data.
+
+The registered neighborhoods are:
 
 1. el Raval
 2. el Barri Gotic
@@ -109,7 +111,7 @@ Neighborhood disaggregated data. The registered neighborhoods are:
 72. Sant Marti de Provencals
 73. la Verneda i la Pau
 
-New variables to be added to the *info_per_barris* table need to strictly follow the same order presented here.
+New variables to be added to the *info_per_barris* table need to strictly follow the same order than here.
 
 Information about the variables registered is available in the *metadata* file of the *info_per_barris* folder.
 
