@@ -5,7 +5,10 @@ Database with information about Barcelona
 
 This **Barcelona Database** tries to compile and organize data from the city of Barcelona.
 
-The origin of the data would be: 1- already available data from public repositories, 2- data from third parties that was not yet available and 3- new data that we can generate with analyses, surveis, etc.
+The origin of the data would be: 
+1. already available data from public repositories, 
+2. data from third parties that was not yet available and 
+3. new data that we can generate with analyses, surveis, etc.
 
 Some of the websites depending on the public administrations that provide (or *should provide!*) data about Barcelona and following the principles of the Open Data could be:
 
