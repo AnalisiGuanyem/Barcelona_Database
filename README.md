@@ -27,7 +27,7 @@ Some of the websites depending on the public administrations that provide (or *s
 
 It is important to remark that **we do not try to replace the function of official public open data repositories**. With this repository, we just try to overcome punctual problems on formats, dispersions, lacks and difficulties to find specfic data that could be useful for further integrated analyses and visualizations. Then, the main goal of the *Barcelona Database* is to facilitate the production of studies, applications, tools and/or manuals helping to understand Barcelona.
 
-Publishing these data in an open format and allowing/promoting a non-restrictive community use is also important for us. We want to facilitate and strongly encourage the reuse of data beyond the *Anàlisi de Dades* group and the **Guanyem Barcelona** context. In addition to the natural association between *new uses* and *creation of new value*, promoting and educating in the open use of data is an important part of the collective and citizen empowerment that is going on.
+Publishing these data in an open format and allowing/promoting a non-restrictive community use is also important for us. We want to facilitate and strongly encourage the reuse of data beyond the *Anàlisi de Dades* group and the **[Guanyem Barcelona](http://guanyembarcelona.cat)** context. In addition to the natural association between *new uses* and *creation of new value*, promoting and educating in the open use of data is an important part of the collective and citizen empowerment that is going on.
 
 ## Tables
 
@@ -117,6 +117,6 @@ Information about the variables registered is available in the *metadata* file o
 
 ## Cautions!
 
-All data added to our *Barcelona Database* must be semicolon (;) separated. The decimal mark must be a point (.). Special symbols in names or values should be avoided and do not transform or scale the original values (it is better to keep raw data as it was in origin).
+All data added to our *Barcelona Database* must be semicolon (;) separated. The decimal mark must be a point (.). Special symbols in names or values should be avoided. And, please, do not transform or scale the original values (it is better to keep raw data as it was in origin).
 
 
