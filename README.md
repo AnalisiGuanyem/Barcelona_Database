@@ -1,4 +1,4 @@
-# Barcelona_Database
+# Barcelona_Database (preliminary version)
 
 ## Presentation
 
