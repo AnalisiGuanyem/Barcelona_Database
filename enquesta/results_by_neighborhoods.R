@@ -153,7 +153,7 @@ for (i in 1:length(unique(rawdata[,60]))) {
   
   barris[i,"enq1_transport_molt_ele"] <- nrow(subset(rawdata,V60==unique(rawdata[,60])[i] & V33=="Massa elevades"))
   barris[i,"enq1_transport_elevat"] <- nrow(subset(rawdata,V60==unique(rawdata[,60])[i] & V33=="Elevades"))
-  barris[i,"enq1_transport_preu_ok"] <- nrow(subset(rawdata,V60==unique(rawdata[,60])[i] & V33=="Adequada"))
+  barris[i,"enq1_transport_preu_ok"] <- nrow(subset(rawdata,V60==unique(rawdata[,60])[i] & V33=="Adequades"))
   barris[i,"enq1_transport_baix"] <- nrow(subset(rawdata,V60==unique(rawdata[,60])[i] & V33=="Baixes"))
   barris[i,"enq1_transport_molt_baix"] <- nrow(subset(rawdata,V60==unique(rawdata[,60])[i] & V33=="Molt baixes"))
   barris[i,"enq1_transport_NA"] <- nrow(subset(rawdata,V60==unique(rawdata[,60])[i] & V33==""))
