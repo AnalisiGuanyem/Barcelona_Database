@@ -243,7 +243,7 @@ for (i in 1:length(unique(rawdata[,60]))) {
 }
 barris <- barris[-1]
 
-write.table(barris, file="resultats_x_barris.csv", sep="\t",row.names=F)
+write.table(barris, file="Survey_28_01_15_by_neighborhoods.csv", sep="\t",row.names=F,quote=F)
 
 # Checking:
 # ----------
