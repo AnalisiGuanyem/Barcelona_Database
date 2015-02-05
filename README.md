@@ -115,14 +115,14 @@ The 10 districts containing these neighborhoods are:
 
 1. Ciutat.Vella
 2. Eixample
-3. Sants.Montjuïc
+3. Sants.Montjuic
 4. Les.Corts
-5. Sarrià.Sant Gervasi
-6. Gràcia
-7. Horta.Guinardó
+5. Sarria.Sant.Gervasi
+6. Gracia
+7. Horta.Guinardo
 8. Nou.Barris
 9. Sant.Andreu
-10. Sant.Martí
+10. Sant.Marti
 
 New variables to be added to the *info_per_barris* table need to strictly follow the same order than here.
 
