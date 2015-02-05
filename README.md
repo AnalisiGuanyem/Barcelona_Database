@@ -113,16 +113,16 @@ The registered neighborhoods are:
 
 The 10 districts containing these neighborhoods are:
 
-1. Ciutat Vella
+1. Ciutat.Vella
 2. Eixample
-3. Sants-Montjuïc
-4. Les Corts
-5. Sarrià - Sant Gervasi
+3. Sants.Montjuïc
+4. Les.Corts
+5. Sarrià.Sant Gervasi
 6. Gràcia
-7. Horta-Guinardó
-8. Nou Barris
-9. Sant Andreu
-10. Sant Martí
+7. Horta.Guinardó
+8. Nou.Barris
+9. Sant.Andreu
+10. Sant.Martí
 
 New variables to be added to the *info_per_barris* table need to strictly follow the same order than here.
 
