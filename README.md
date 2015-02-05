@@ -37,79 +37,79 @@ Neighborhood disaggregated data.
 
 The registered neighborhoods are:
 
-1. el Raval
-2. el Barri Gotic
-3. la Barceloneta
-4. Sant Pere, Santa Caterina i la Ribera
-5. el Fort Pienc
-6. la Sagrada Familia
-7. la Dreta de l'Eixample
-8. l'Antiga Esquerra de l'Eixample
-9. la Nova Esquerra de l'Eixample
-10. Sant Antoni
-11. el Poble Sec 
-12. la Marina del Prat Vermell 
-13. la Marina de Port
-14. la Font de la Guatlla
-15. Hostafrancs
-16. la Bordeta
-17. Sants-Badal
-18. Sants
-19. les Corts
-20. la Maternitat i Sant Ramon
-21. Pedralbes
-22. Vallvidrera, el Tibidabo i les Planes
-23. Sarrià
-24. les Tres Torres
-25. Sant Gervasi 
-26. Sant Gervasi 
-27. el Putxet i el Farro
-28. Vallcarca i els Penitents
-29. el Coll
-30. la Salut
-31. la Vila de Gracia
-32. el Camp d'en Grassot i Gracia Nova
-33. el Baix Guinardo
-34. Can Baro
-35. el Guinardo
-36. la Font d'en Fargues
-37. el Carmel
-38. la Teixonera
-39. Sant Genis dels Agudells
-40. Montbau
-41. la Vall d'Hebron
-42. la Clota
-43. Horta
-44. Vilapicina i la Torre Llobeta
-45. Porta
-46. el Turo de la Peira
-47. Can Peguera
-48. la Guineueta
-49. Canyelles
-50. les Roquetes
-51. Verdun
-52. la Prosperitat
-53. la Trinitat Nova
-54. Torre Baro
-55. Ciutat Meridiana
-56. Vallbona
-57. la Trinitat Vella
-58. Baro de Viver
-59. el Bon Pastor
-60. Sant Andreu
-61. la Sagrera
-62. el Congres i els Indians
-63. Navas
-64. el Camp de l'Arpa del Clot
-65. el Clot
-66. el Parc i la Llacuna del Poblenou
-67. la Vila Olimpica del Poblenou
-68. el Poblenou
-69. Diagonal Mar i el Front Maritim del Poblenou
-70. el Besos i el Maresme
-71. Provencals del Poblenou
-72. Sant Marti de Provencals
-73. la Verneda i la Pau
+1.	el.Raval
+2.	el.Barri.Gotic
+3.	la.Barceloneta
+4.	Sant.Pere.Santa.Caterina.i.la.Ribera
+5.	el.Fort.Pienc
+6.	la.Sagrada.Familia
+7.	la.Dreta.de.l.Eixample
+8.	l.Antiga.Esquerra.de.l.Eixample
+9.	la.Nova.Esquerra.de.l.Eixample
+10.	Sant.Antoni
+11.	el.Poble.Sec
+12.	la.Marina.del.Prat.Vermell
+13.	la.Marina.de.Port
+14.	la.Font.de.la.Guatlla
+15.	Hostafrancs
+16.	la.Bordeta
+17.	Sants.Badal
+18.	Sants
+19.	les.Corts
+20.	la.Maternitat.i.Sant.Ramon
+21.	Pedralbes
+22.	Vallvidrera.el.Tibidabo.i.les.Planes
+23.	Sarria
+24.	les.Tres.Torres
+25.	Sant.Gervasi
+26.	Sant.Gervasi.Galvany
+27.	el.Putxet.i.el.Farro
+28.	Vallcarca.i.els.Penitents
+29.	el.Coll
+30.	la.Salut
+31.	la.Vila.de.Gracia
+32.	el.Camp.d.en.Grassot.i.Gracia.Nova
+33.	el.Baix.Guinardo
+34.	Can.Baro
+35.	el.Guinardo
+36.	la.Font.d.en.Fargues
+37.	el.Carmel
+38.	la.Teixonera
+39.	Sant.Genis.dels.Agudells
+40.	Montbau
+41.	la.Vall.d.Hebron
+42.	la.Clota
+43.	Horta
+44.	Vilapicina.i.la.Torre.Llobeta
+45.	Porta
+46.	el.Turo.de.la.Peira
+47.	Can.Peguera
+48.	la.Guineueta
+49.	Canyelles
+50.	les.Roquetes
+51.	Verdun
+52.	la.Prosperitat
+53.	la.Trinitat.Nova
+54.	Torre.Baro
+55.	Ciutat.Meridiana
+56.	Vallbona
+57.	la.Trinitat.Vella
+58.	Baro.de.Viver
+59.	el.Bon.Pastor
+60.	Sant.Andreu
+61.	la.Sagrera
+62.	el.Congres.i.els.Indians
+63.	Navas
+64.	el.Camp.de.l.Arpa.del.Clot
+65.	el.Clot
+66.	el.Parc.i.la.Llacuna.del.Poblenou
+67.	la.Vila.Olimpica.del.Poblenou
+68.	el.Poblenou
+69.	Diagonal.Mar.i.el.Front.Maritim.del.Poblenou
+70.	el.Besos.i.el.Maresme
+71.	Provencals.del.Poblenou
+72.	Sant.Marti.de.Provencals
+73.	la.Verneda.i.la.Pau
 
 The 10 districts containing these neighborhoods are:
 
